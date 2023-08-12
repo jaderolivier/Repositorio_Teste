@@ -45,7 +45,7 @@ import pandas pd
 
 **Lista de tarefas.**
 
-- [ ] https://github.com/aasouzaconsult
+- [x] https://github.com/aasouzaconsult
 - [x] Aula01
 - [x] Aula02
 - [x] Aula03
