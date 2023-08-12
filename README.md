@@ -36,6 +36,12 @@ import pandas pd
 
 ---
 
+1. Digital College
+   - Programas utilizados
+     - GitHub, PgAdmin, Pentaho, PowerBI
+
+---
+
 **Formas de aterar o tamanho de fonte utilizando "#"**
 
 # TESTE TAMANHO FONTE#
