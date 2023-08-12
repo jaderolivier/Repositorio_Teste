@@ -2,6 +2,7 @@
 
 =P
 
+---
 
 Linguaguem para utilizar aqui nessa plataforma!
 
