@@ -24,7 +24,7 @@
 
 ---
 
-**Formas de colocar select do SQL e import do PYTHON**
+**Formas de colocar `select do SQL` e `import do PYTHON`**
 
 ```sql
 select * from tbteste;
