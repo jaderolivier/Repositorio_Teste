@@ -11,6 +11,8 @@ Linguaguem para utilizar aqui nessa plataforma!
 
 [Dicas de como escrever e formatar nesta plataforma](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+---
+
 **Negrito** - Atenção
 *Itálico* - Atenção
 
@@ -22,11 +24,15 @@ select * from tbteste;
 import pandas pd
 ```
 
+---
+
 # TESTE TAMANHO FONTE#
 
 ## TESTE TAMANHO FONTE## 2
 
 ### TESTE TAMANHO FONTE### 3
+
+---
 
 Testando como elaborar uma tabela. (Abaixo)
 
