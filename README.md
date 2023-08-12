@@ -16,6 +16,7 @@ Linguaguem para utilizar aqui nessa plataforma!
 ---
 
 **Negrito** - Atenção
+
 *Itálico* - Atenção
 
 ```sql
