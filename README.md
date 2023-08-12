@@ -1,5 +1,6 @@
 [![Responsável](https://img.shields.io/badge/Responsável-JaderOlivier-blue.svg)](https://github.com/jaderolivier) 
-[![Cliente](https://img.shields.io/badge/Cliente-LiaSanders-red.svg)](https://www.liasanders.com.br/) 
+[![Professor](https://img.shields.io/badge/Professor-AlexSouza-red.svg)](https://github.com/aasouzaconsult) 
+
 
 # Primeiro teste no GitHub
 
