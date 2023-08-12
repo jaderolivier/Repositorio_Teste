@@ -7,6 +7,7 @@
 ![Sem título](https://github.com/jaderolivier/Repositorio_Teste/assets/142109322/814e6fc1-6f12-4cf4-bfdf-5c47dea206e6)
 
 
+> Professor Alex Sousa
 ---
 
 **Linguaguem para utilizar aqui nessa plataforma!**
