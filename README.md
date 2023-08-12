@@ -19,6 +19,8 @@ Linguaguem para utilizar aqui nessa plataforma!
 
 *Itálico* - Atenção
 
+---
+
 ```sql
 select * from tbteste;
 ```
