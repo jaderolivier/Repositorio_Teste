@@ -12,3 +12,7 @@ Linguaguem para utilizar aqui nessa plataforma!
 ```sql
 select * from tbteste;
 ```
+
+```python
+import pandas pd
+```
