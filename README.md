@@ -9,17 +9,21 @@
 
 ---
 
-Linguaguem para utilizar aqui nessa plataforma!
+**Linguaguem para utilizar aqui nessa plataforma!**
 
 [Dicas de como escrever e formatar nesta plataforma](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ---
+
+**Formas de Escrever utilizando "*"**
 
 **Negrito** - Atenção
 
 *Itálico* - Atenção
 
 ---
+
+**Formas de colocar select do SQL e import do PYTHON**
 
 ```sql
 select * from tbteste;
@@ -31,6 +35,8 @@ import pandas pd
 
 ---
 
+**Formas de aterar o tamanho de fonte utilizando "#"**
+
 # TESTE TAMANHO FONTE#
 
 ## TESTE TAMANHO FONTE## 2
@@ -39,7 +45,7 @@ import pandas pd
 
 ---
 
-Testando como elaborar uma tabela. (Abaixo)
+**Testando como elaborar uma tabela. (Abaixo)**
 
 |    Nome do Projeto  |    Link    | Extensão do dado    | Fonte de Dados  | Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
