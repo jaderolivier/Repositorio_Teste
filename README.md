@@ -45,9 +45,18 @@ import pandas pd
 
 **Lista de tarefas.**
 
-- [x] #739
 - [ ] https://github.com/aasouzaconsult
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Aula01
+- [x] Aula02
+- [x] Aula03
+- [x] Aula04
+- [x] Aula05
+- [x] Aula06
+- [x] Aula07
+- [x] Aula08
+- [ ] Aula09
+- [ ] Aula10
+- [ ] Conclusão :tada:
 
 ---
 
