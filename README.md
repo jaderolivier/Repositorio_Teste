@@ -1,6 +1,6 @@
 [![Responsável](https://img.shields.io/badge/Responsável-JaderOlivier-blue.svg)](https://github.com/jaderolivier) 
 [![Professor](https://img.shields.io/badge/Professor-AlexSouza-red.svg)](https://github.com/aasouzaconsult) 
-[![Assunto](https://img.shields.io/badge/Assunto-GitHub-yellow.svg)](https://github.com/aasouzaconsult) 
+[![Assunto](https://img.shields.io/badge/Assunto-GitHub-yellow.svg)](https://github.com/) 
 
 # Primeiro teste no GitHub
 
