@@ -9,4 +9,6 @@ Linguaguem para utilizar aqui nessa plataforma!
 
 *Negrito* - Atenção
 
-
+```sql
+seçect * from tbteste;
+```
